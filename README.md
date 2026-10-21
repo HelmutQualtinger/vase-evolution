@@ -47,3 +47,17 @@ Werkzeuge: `numpy`, `scipy`, `manifold3d` (Loft, Boolesche Operationen, Text ext
 - Volumen ≈ 158 cm³ (PETG ≈ 200 g)
 - Genus 0
 - Bounding Box etwa 111 × 112 × 200 mm
+
+## Ergebnis
+
+### Technische Zeichnung
+
+[![Technische Zeichnung der Vase Evolution](vase_evolution_drawing.png)](vase_evolution_drawing.pdf)
+
+PDF: [vase_evolution_drawing.pdf](vase_evolution_drawing.pdf) (englisch) · [vase_evolution_zeichnung.pdf](vase_evolution_zeichnung.pdf) (deutsch)
+
+### Video
+
+[![Vase in gebürstetem Kupfer, Drehung um drei Achsen](vase_kupfer_evolution_drehung.gif)](vase_kupfer_evolution_drehung.mp4)
+
+Volle Auflösung (1920 × 1080, 20 s): [vase_kupfer_evolution_drehung.mp4](vase_kupfer_evolution_drehung.mp4)
